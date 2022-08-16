@@ -50,8 +50,8 @@
 ## :octocat: Estatísticas (*Stats*)
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leolliima&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolliima&layout=compact&langs_count=7&theme=gruvbox_light"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leolliima&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolliima&layout=compact&langs_count=7&theme=gruvbox_light"/>
 
   ![Snake Animation](https://raw.githubusercontent.com/leolliima/leolliima/output/github-contribution-grid-snake.svg#gh-light-mode-only)
   ![Snake Animation](https://raw.githubusercontent.com/leolliima/leolliima/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
