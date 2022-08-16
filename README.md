@@ -41,10 +41,9 @@
     <td align="center"><a href="https://puppet.com/"><img src="imagens/puppet.png" height="75px;" alt="Puppet"/><br /><b>Puppet</b></a></td>
   </tr>
 </table>
-
 <br />
 
-## :octocat: Estatísticas (*Stats*)
+## 📉: Estatísticas (*Stats*)
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leolliima&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
@@ -61,7 +60,7 @@
 [gmail-badge]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [gmail-url]: mailto:lionleosoad@gmail.com
 [medium-badge]: https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
-[medium-url]: https://medium.com/leolima
+[medium-url]: https://medium.com/leolliima
 [counter-badge]: https://komarev.com/ghpvc/?username=leolliima&color=d88d20&style=for-the-badge
 [counter-url]: https://github.com/leolliima
 
