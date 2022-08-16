@@ -47,15 +47,15 @@
 
 <br />
 
-## :octocat:  Estatísticas (*Stats*)
-<center>
-<table>
-  <tr>
-    <td><img align="left" src=https://github-readme-stats.vercel.app/api?username=leolliima&show_icons=true&theme=gruvbox_light></td>
-    <td><img align="left" src=https://github-readme-stats.vercel.app/api/top-langs/?username=leolliima&layout=compact&show_icons=true&theme=gruvbox_light></td>
-  </tr>  
-</table>
-</center>
+## :octocat: Estatísticas (*Stats*)
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leolliima&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolliima&layout=compact&langs_count=7&theme=gruvbox_light"/>
+
+  ![Snake Animation](https://raw.githubusercontent.com/leolliima/leolliima/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+  ![Snake Animation](https://raw.githubusercontent.com/leolliima/leolliima/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+</div>
 
 [linkedin-badge]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link
 [linkedin-url]: https://www.linkedin.com/in/leandrolliima/
@@ -76,7 +76,4 @@
 *** Medium-12100E
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-
-  
-  ![Snake animation](https://github.com/leolliima/leolliima/blob/output/github-contribution-grid-snake.svg)
   
