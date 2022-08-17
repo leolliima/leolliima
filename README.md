@@ -8,16 +8,17 @@
 
 <br />
 
-## :raising_hand: Hello / Olá
+## :raising_hand: Olá / Helo
 
 > 🇧🇷 `Olá, meu nome é Leandro, tenho 31 anos e sou Assesor de TI. Estou buscando por uma transição de carreira para DevOps. Essa conta é um laboratório de estudos, idéias e recursos para mim e outros desenvolvedores que compartilham o mesmo objetivo de produzir algo.`
 
-🇺🇸 `....`
+> 🇺🇸 `....`
 
 <br />
 
 ## :rocket: Interesses (*Interests*)
 > 🇧🇷 Ferramentas, linguagens e outras coisas que tenho interesse:
+
 > 🇺🇸 Tools, languages, and other things that I'm interested in:
 <center>
 
@@ -43,11 +44,11 @@
 </table>
 <br />
 
-## 📉: Estatísticas (*Stats*)
+## 📉Estatísticas (*Stats*)
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leolliima&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolliima&layout=compact&langs_count=7&theme=gruvbox_light"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=leolliima&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolliima&layout=compact&langs_count=7&theme=onedark"/>
 
   ![Snake Animation](https://raw.githubusercontent.com/leolliima/leolliima/output/github-contribution-grid-snake.svg#gh-light-mode-only)
   ![Snake Animation](https://raw.githubusercontent.com/leolliima/leolliima/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
